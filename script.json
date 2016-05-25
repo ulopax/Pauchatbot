@@ -1,9 +1,9 @@
 {
-    "HI": "Hi there! :)\n How are you today? \n %[Great,thanks](postback:great) %[Quite Terrible](postback:quiteterrible)",
+    "HI": "Hi there! :)\n How are you today?\n %[Great,thanks](postback:great) %[Quite Terrible](postback:quiteterrible)",
     "GREAT,THANKS": "Awesome, now we can make your day even better!. %[Yes](postback:yes)",
     "QUITE TERRIBLE": "No worries, I am sure we can improve your mood %[yes](postback:yes)",
-    "YES":"![paul](https://raw.githubusercontent.com/ulopax/EstherBot/master/img/botpaul.jpg) %[I want more](postback:more)",
-    "I WANT MORE":"![paul](https://raw.githubusercontent.com/ulopax/EstherBot/master/img/botpau.jpg) %[I want more](postback:more)",
+    "YES":"\n![paul](https://raw.githubusercontent.com/ulopax/EstherBot/master/img/botpaul.jpg) %[I want more](postback:more)",
+    "I WANT MORE":"\n![paul](https://raw.githubusercontent.com/ulopax/EstherBot/master/img/botpau.jpg) %[I want more](postback:more)",
     
     "MORE BOT STORIES": "Oowkey...it seems like you enjoy stories about how bots are the new cool.\n Here’s an article that you will like on why bots will ‘kill’ apps. %[Read Article now](https://medium.com/chat-bots/once-in-a-decade-paradigm-shift-messaging-dec665593e49#.dyjwotkmz) %[Ok,will read later](postback:read)",
     "OK,WILL READ LATER":"Great, now l guess that’s enough about me let’s talk about Paul. %[More About Paul](postback:AboutPaul)",
